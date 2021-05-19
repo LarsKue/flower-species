@@ -133,3 +133,6 @@ data/
 
 # Jetbrains
 .idea/
+
+# model weights
+checkpoints/
